@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm danial from pakistan. and I am a web-developer using python and django for my websites. I love to code, program something helpfull to others. I am still learing new languages concepts and learning phase can never be end for a programmer. 
 <!--
 **danialshamas/danialshamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
