@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I'm danial from pakistan. and I am a python programmer i do web-development with django.I am a quick learner and a problem solver writing scripts to provide solutions is my passion. I love to code, reading books . I am still learing and working on new languages and concepts.learning phase can never be end for a programmer. thanks for approaching. <","> 
+I am a backend developer with 2 years of experience in building scalable and reliable web applications. I have a strong foundation in Python , and am proficient in using frameworks such as Django . I am highly detail-oriented and able to deliver projects on time and within budget. I am also passionate about continuous learning and improving my skills, and have experience using tools such as GitHub and Stack Overflow to collaborate and learn from other developers. <","> 
 <!--
 **danialshamas/danialshamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
